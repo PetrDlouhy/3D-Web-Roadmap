@@ -13,5 +13,5 @@ CGTrader - 3D model marketplace: https://www.cgtrader.com/ <br />
 Hum3D - Catalog of 3D objects: https://www.hum3d.com/ <br />
 3dWarehouse - Models from SketchUp: https://3dwarehouse.sketchup.com/ <br />
 NASA 3D Resources - Space models from NASA: https://nasa3d.arc.nasa.gov/models <br />
-BlenderKit - Downloadable Blender assets: https://www.blenderkit.com/ <br />
+BlenderKit - Downloadable Blender assets: https://www.blendkit.com/ <br />
 Kitbash3D - Game ready 3D models: https://kitbash3d.com/ <br />
